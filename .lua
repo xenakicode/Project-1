@@ -1,7 +1,5 @@
------- * obscura.win priv_9 Menu * ------
---[[
-    # Rewriten by: obscura.win
-]]
+--- shit ui
+
 
 repeat
     task.wait()
@@ -12,7 +10,7 @@ repeat
     makefolder("obscura.win")
  end
  
- local menu = game:GetObjects("rbxassetid://17859011406")[1] 
+ local menu = game:GetObjects("rbxassetid://80082797831399")[1] 
  local tabholder = menu.bg.bg.bg.bg.bg.bg.main.group;
  local tabviewer = menu.bg.bg.bg.bg.bg.bg.tabbuttons;
  
